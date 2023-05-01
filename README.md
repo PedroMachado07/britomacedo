@@ -17,7 +17,7 @@ O projeto consiste em um site responsivo, formulado para uma sociedade de advoga
 - HTML / CSS 
 
 #Page
-pedromachado07.github.io/advogados/
+ pedromachado07.github.io/advogados/
 
 
 
